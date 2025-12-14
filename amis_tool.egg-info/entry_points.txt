@@ -1,0 +1,2 @@
+[gui_scripts]
+amis = run_amis:main

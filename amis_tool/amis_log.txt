@@ -1,0 +1,58 @@
+2025-12-10 08:38:49,814 - INFO - Loading file 1: Student_Grades_History_Grade11_Raw_Data.xlsx
+2025-12-10 08:38:50,145 - INFO - ✅ Loaded: 879 rows, 2 columns
+2025-12-10 08:38:51,862 - INFO - ✅ File 1 successfully loaded as 'raw' data
+2025-12-10 08:38:56,051 - INFO - Loading file 2: World_Bank_Nominal_GDP_All_Countries_2024.xlsx
+2025-12-10 08:38:56,070 - INFO - ✅ Loaded: 186 rows, 2 columns
+2025-12-10 08:38:57,744 - INFO - ✅ File 2 successfully loaded as 'raw' data
+2025-12-10 08:38:59,974 - INFO - 🔄 Starting normalization of file 1...
+2025-12-10 08:39:00,123 - INFO - ✅ File 1 successfully normalized
+2025-12-10 08:39:00,159 - INFO - 💾 Results saved in: E:/Python/AMIS/examples\converted_tables
+2025-12-10 08:39:03,749 - INFO - 🔄 Starting normalization of file 2...
+2025-12-10 08:39:03,805 - INFO - ✅ File 2 successfully normalized
+2025-12-10 08:39:03,807 - INFO - 💾 Results saved in: E:/Python/AMIS/examples\converted_tables
+2025-12-10 08:39:09,768 - INFO - 💾 Graph saved: E:/Python/AMIS/examples\plots\Student_Grades_History_Grade11_Raw_Data_AMIS_graph_1.png
+2025-12-10 08:39:12,980 - INFO - 🎯 Opened AMIS methods comparison for file 1
+2025-12-10 08:39:22,460 - INFO - 🎯 Opened AMIS methods comparison for file 2
+2025-12-10 08:39:38,524 - INFO - 🗑️ All data cleared
+2025-12-10 08:39:42,817 - INFO - Loading file 1: HIST11_Karelia.xlsx
+2025-12-10 08:39:42,826 - INFO - ✅ Loaded: 41 rows, 2 columns
+2025-12-10 08:39:44,425 - INFO - ✅ File 1 successfully loaded as 'raw' data
+2025-12-10 08:39:45,964 - INFO - 🔄 Starting normalization of file 1...
+2025-12-10 08:39:46,003 - INFO - ✅ File 1 successfully normalized
+2025-12-10 08:39:46,004 - INFO - 💾 Results saved in: E:/Python/AMIS/examples\converted_tables
+2025-12-10 08:39:48,681 - INFO - 💾 Graph saved: E:/Python/AMIS/examples\plots\HIST11_Karelia_AMIS_graph_1.png
+2025-12-10 08:39:55,197 - INFO - 🗑️ All data cleared
+2025-12-10 08:39:58,801 - INFO - Loading file 1: HIST11_Karelia.xlsx
+2025-12-10 08:39:58,810 - INFO - ✅ Loaded: 41 rows, 2 columns
+2025-12-10 08:40:01,001 - INFO - ✅ File 1 successfully loaded as 'aggregated' data
+2025-12-10 08:40:03,091 - INFO - 🔄 Starting normalization of file 1...
+2025-12-10 08:40:03,293 - INFO - ✅ File 1 successfully normalized
+2025-12-10 08:40:03,294 - INFO - 💾 Results saved in: E:/Python/AMIS/examples\converted_tables
+2025-12-10 08:40:06,104 - INFO - 💾 Graph saved: E:/Python/AMIS/examples\plots\HIST11_Karelia_AMIS_graph_1.png
+2025-12-10 08:40:21,491 - INFO - Loading file 1: Student_Grades_History_Grade11_Raw_Data.csv
+2025-12-10 08:40:21,496 - INFO - ✅ Loaded: 879 rows, 2 columns
+2025-12-10 08:40:23,255 - INFO - ✅ File 1 successfully loaded as 'raw' data
+2025-12-10 08:40:25,869 - INFO - 🔄 Starting normalization of file 1...
+2025-12-10 08:40:26,018 - INFO - ✅ File 1 successfully normalized
+2025-12-10 08:40:26,020 - INFO - 💾 Results saved in: E:/Python/AMIS/examples\converted_tables
+2025-12-10 08:40:28,921 - INFO - 💾 Graph saved: E:/Python/AMIS/examples\plots\Student_Grades_History_Grade11_Raw_Data_AMIS_graph_1.png
+2025-12-10 08:40:33,382 - INFO - 🗑️ All data cleared
+2025-12-10 08:40:36,848 - INFO - Loading file 1: Student_Grades_History_Grade11_Raw_Data.xlsx
+2025-12-10 08:40:36,876 - INFO - ✅ Loaded: 879 rows, 2 columns
+2025-12-10 08:40:38,150 - INFO - ✅ File 1 successfully loaded as 'aggregated' data
+2025-12-10 08:40:40,572 - INFO - 🔄 Starting normalization of file 1...
+2025-12-10 08:40:41,089 - INFO - ✅ File 1 successfully normalized
+2025-12-10 08:40:41,090 - INFO - 💾 Results saved in: E:/Python/AMIS/examples\converted_tables
+2025-12-10 08:40:43,688 - INFO - 💾 Graph saved: E:/Python/AMIS/examples\plots\Student_Grades_History_Grade11_Raw_Data_AMIS_graph_1.png
+2025-12-10 08:40:57,021 - INFO - Loading file 1: World_Bank_Nominal_GDP_All_Countries_2024.xlsx
+2025-12-10 08:40:57,039 - INFO - ✅ Loaded: 186 rows, 2 columns
+2025-12-10 08:40:58,305 - INFO - ✅ File 1 successfully loaded as 'aggregated' data
+2025-12-10 08:40:59,629 - INFO - 🔄 Starting normalization of file 1...
+2025-12-10 08:40:59,678 - ERROR - ❌ Normalization error: Data conversion error: Insufficient data: 0 values
+2025-12-10 08:41:25,615 - INFO - Loading file 1: World_Bank_Nominal_GDP_All_Countries_2024.xlsx
+2025-12-10 08:41:25,632 - INFO - ✅ Loaded: 186 rows, 2 columns
+2025-12-10 08:41:27,010 - INFO - ✅ File 1 successfully loaded as 'raw' data
+2025-12-10 08:41:28,454 - INFO - 🔄 Starting normalization of file 1...
+2025-12-10 08:41:28,513 - INFO - ✅ File 1 successfully normalized
+2025-12-10 08:41:28,515 - INFO - 💾 Results saved in: E:/Python/AMIS/examples\converted_tables
+2025-12-10 08:41:37,334 - INFO - 🎯 Opened AMIS methods comparison for file 1

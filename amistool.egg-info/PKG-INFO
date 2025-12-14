@@ -1,0 +1,63 @@
+Metadata-Version: 2.4
+Name: amistool
+Version: 4.3.0
+Summary: Adaptive Multi-Interval Scale (AMIS) - normalization and comparison of heterogeneous metrics
+Home-page: https://github.com/Famimot/AMIS_Normalization_Tool
+Author: Gennadiy Kravtsov
+Author-email: 62abc@mail.ru
+Project-URL: Homepage, https://github.com/Famimot/AMIS_Normalization_Tool
+Project-URL: Bug Tracker, https://github.com/Famimot/AMIS_Normalization_Tool/issues
+Project-URL: Documentation, https://github.com/Famimot/AMIS_Normalization_Tool#readme
+Keywords: normalization,data-analysis,education,statistics,AMIS,adaptive-scaling,metric-comparison
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Science/Research
+Classifier: Intended Audience :: Education
+Classifier: Topic :: Scientific/Engineering :: Information Analysis
+Classifier: Topic :: Education :: Testing
+Classifier: Topic :: Scientific/Engineering :: Mathematics
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: pandas>=1.3.0
+Requires-Dist: numpy>=1.20.0
+Requires-Dist: scipy>=1.7.0
+Requires-Dist: matplotlib>=3.4.0
+Requires-Dist: openpyxl>=3.0.0
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: keywords
+Dynamic: license-file
+Dynamic: project-url
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
+# AMIS Normalization Tool
+
+A graphical application for data normalization using the AMIS (Adaptive Metric Interpolation System) method.
+
+## Features
+
+- 📊 Normalization of raw and aggregated data
+- ⚡ 5 normalization models (3, 5, 9, 17 points, linear)
+- 🔄 Comparison of two datasets
+- 📈 Visualization and export of results
+- 🎯 Interactive comparison of AMIS types
+- 🔄 Switch between original and normalized data views
+
+## Installation
+
+### Prerequisites
+- Python 3.8 or higher
+- pip package manager
+
+### Install Dependencies
+```bash
+pip install -r requirements.txt
