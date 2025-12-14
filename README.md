@@ -139,4 +139,5 @@ Kravtsov, G. G. (2025, November 18). *Universal Adaptive Normalization Scale (AM
 
 ### Software Paper
 
-[@kravtsov2025amis]
+[@kravtsov2025amistool]
+
