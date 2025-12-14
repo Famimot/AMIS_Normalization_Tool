@@ -139,11 +139,4 @@ Kravtsov, G. G. (2025, November 18). *Universal Adaptive Normalization Scale (AM
 
 ### Software Paper
 
-    @article{kravtsov2025amis,
-      title = {AMIS: Universal Adaptive Normalization Scale},
-      author = {Kravtsov, Gennadiy Grigorievich},
-      journal = {Journal of Open Source Software},
-      year = {2025},
-      doi = {10.21105/joss.XXXXX},
-      url = {https://joss.theoj.org/papers/XXXXX}
-    }
+[@kravtsov2025amis]
