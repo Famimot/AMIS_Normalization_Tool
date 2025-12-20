@@ -6,7 +6,7 @@ tags:
   - statistics
   - education
 authors:
-  - name: Gennadiy Grigorievich Kravtsov
+  - name: Gennady Kravtsov
     orcid: 0009-0000-3405-1461
     affiliation: "1"
 affiliations:
@@ -19,7 +19,7 @@ journal: JOSS
 
 # AMIS: PYTHON PACKAGE FOR ADAPTIVE MULTI-INTERVAL NORMALIZATION AND MAPPING OF HETEROGENEOUS DATA
 
-**Author:** Gennadiy Grigorievich Kravtsov  
+**Author:** Gennady Kravtsov  
 **Affiliation:** Research Center "Applied Statistics"  
 **ORCID:** [0009-0000-3405-1461](https://orcid.org/0009-0000-3405-1461)
 
@@ -193,4 +193,5 @@ For interactive analysis with the graphical interface, run `python -m amis_tool`
 1. Kravtsov, G. G. (2025). Universal Adaptive Normalization Scale (AMIS): A methodology for integrating heterogeneous social and educational metrics. *OSF Preprints*. https://doi.org/10.17605/OSF.IO/BDT2K
 
 <!-- Additional references will be automatically generated from paper.bib -->
+
 
