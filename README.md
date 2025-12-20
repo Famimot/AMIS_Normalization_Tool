@@ -1,5 +1,7 @@
 # AMIS: Python Package for Adaptive Multi-Interval Data Normalization and Mapping
 
+[![JOSS status](https://joss.theoj.org/papers/fa5b77b6aa9684c9efb7e90496ffc7ac/status.svg)](https://joss.theoj.org/papers/fa5b77b6aa9684c9efb7e90496ffc7ac)
+
 A graphical application for **data normalization and mapping of heterogeneous data** using the **AMIS (Adaptive Multi-Interval Scale)** method.
 
 ## Features
@@ -140,4 +142,5 @@ Kravtsov, G. G. (2025, November 18). *Universal Adaptive Normalization Scale (AM
 ### Software Paper
 
 [@kravtsov2025amistool]
+
 
