@@ -138,7 +138,12 @@ If you use AMIS in your research, please cite both the methodology paper and the
 * **Main Article (Journal):** Kravtsov, G. G. (2026). Adaptive Multi-Interval Scale (AMIS): Construction of a Unified Metric Space for Heterogeneous Data. *Modelling and Data Analysis*, 16(2), 67–83. https://doi.org/10.17759/mda.2026160203
 * **Algorithm & IT (Journal):** Kravtsov, G. G. (2026). Adaptive Multi-Interval Scale (AMIS): Algorithm for normalization of aggregated data in a unified measurement space. *Research Result. Information Technologies*, 11(2), 50–61. https://doi.org/10.18413/2518-1092-2026-11-2-0-5
 
-* **Medical Device Data:** Kravtsov, G. G. (2026). *Supplementary Materials for the Article "Adaptive Multi-Interval Scale (AMIS): An Algorithm for Normalizing Medical Device Data into a Unified Metric Space"*. Harvard Dataverse. https://doi.org/10.7910/DVN/OTEUVU
+### 📊 Open Data
+
+If you use the datasets for benchmarks or reproduction, please cite them as follows:
+
+* **Medical Device Data:** Kravtsov, G. G. (2026). *Supplementary Materials for the Article "Adaptive Multi-Interval Scale (AMIS): An Algorithm for Normalizing Medical Device Data into a Unified Metric Space"* [Data set]. Harvard Dataverse. https://doi.org/10.7910/DVN/OTEUVU
+* **Graphical Visualization Data:** Kravtsov, G. G. (2026). *Replication Data for: Adaptive Multi-Interval Scale (AMIS): Graphical Visualization of a Unified Measurement Space* [Data set]. Harvard Dataverse. https://doi.org/10.7910/DVN/HXQYRR
 
 ### Preprints & Working Papers
 * **SSRN:** Kravtsov, G. G. (2026). Adaptive Multi-interval Scale (AMIS): Graphical Visualization of a Unified Measurement Space. *SSRN Electronic Journal*. https://doi.org/10.2139/ssrn.7090960
