@@ -134,14 +134,13 @@ United States,29184890000000
 ## Citation
 If you use AMIS in your research, please cite both the methodology paper and the software:
 
-**Methodology Paper (APA):**  
-Кравцов Г. Г. Адаптивная многоинтервальная шкала (AMIS): построение единого метрического пространства для разнородных данных // Моделирование и анализ данных. 2026. Т. 16. № 2. С. 67–83. https://doi.org/10.17759/mda.2026160203
+### Methodology Papers
+* **Main Article (Journal):** Kravtsov, G. G. (2026). Adaptive Multi-Interval Scale (AMIS): Construction of a Unified Metric Space for Heterogeneous Data. *Modelling and Data Analysis*, 16(2), 67–83. https://doi.org/10.17759/mda.2026160203
+* **Algorithm & IT (Journal):** Kravtsov, G. G. (2026). Adaptive Multi-Interval Scale (AMIS): Algorithm for normalization of aggregated data in a unified measurement space. *Research Result. Information Technologies*, 11(2), 50–61. https://doi.org/10.18413/2518-1092-2026-11-2-0-5
 
-Кравцов Г. Г. Адаптивная мультиинтервальная шкала (AMIS): алгоритм нормализации агрегированных данных в едином измерительном пространстве // Научный результат. Информационные технологии. 2026. Т. 11. № 2. С. 50–61. https://doi.org/10.18413/2518-1092-2026-11-2-0-5
-
-Kravtsov, G. G. (2025, November 18). *Universal Adaptive Normalization Scale (AMIS): A methodology for integrating heterogeneous social and educational metrics*. https://doi.org/10.17605/OSF.IO/BDT2K [Preprint]
-
-Kravtsov G. G. Adaptive Multi-interval Scale (AMIS): Graphical Visualization of a Unified Measurement Space // SSRN Electronic Journal. 2026. https://doi.org/10.2139/ssrn.7090960
+### Preprints & Working Papers
+* **SSRN:** Kravtsov, G. G. (2026). Adaptive Multi-interval Scale (AMIS): Graphical Visualization of a Unified Measurement Space. *SSRN Electronic Journal*. https://doi.org/10.2139/ssrn.7090960
+* **OSF:** Kravtsov, G. G. (2025). Universal Adaptive Normalization Scale (AMIS): A methodology for integrating heterogeneous social and educational metrics. *OSF Preprints*. https://doi.org/10.17605/OSF.IO/BDT2K
 
 
 
