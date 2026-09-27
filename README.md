@@ -131,21 +131,21 @@ United States,29184890000000
 ## License
 [MIT License](LICENSE)
 
-## Citation
-If you use AMIS in your research, please cite both the methodology paper and the software:
+## Citation & Open Data
 
-### Methodology Papers
-* **Main Article (Journal):** Kravtsov, G. G. (2026). Adaptive Multi-Interval Scale (AMIS): Construction of a Unified Metric Space for Heterogeneous Data. *Modelling and Data Analysis*, 16(2), 67–83. https://doi.org/10.17759/mda.2026160203
-* **Algorithm & IT (Journal):** Kravtsov, G. G. (2026). Adaptive Multi-Interval Scale (AMIS): Algorithm for normalization of aggregated data in a unified measurement space. *Research Result. Information Technologies*, 11(2), 50–61. https://doi.org/10.18413/2518-1092-2026-11-2-0-5
+If you use AMIS in your research or software in your projects, please cite both the methodology papers and the respective replication datasets:
 
-### 📊 Open Data
+### 📑 Methodology Papers
+* **Main Theory & Application:** Kravtsov, G. G. (2026). Adaptive Multi-Interval Scale (AMIS): Construction of a Unified Metric Space for Heterogeneous Data. *Modelling and Data Analysis*, 16(2), 67–83. https://doi.org/10.17759/mda.2026160203
+* **Algorithm & IT Framework:** Kravtsov, G. G. (2026). Adaptive Multi-Interval Scale (AMIS): Algorithm for normalization of aggregated data in a unified measurement space. *Research Result. Information Technologies*, 11(2), 50–61. https://doi.org/10.18413/2518-1092-2026-11-2-0-5
 
-If you use the datasets for benchmarks or reproduction, please cite them as follows:
-
+### 📊 Open Data (Harvard Dataverse Replication Datasets)
+If you use the benchmark datasets for verification or reproduction, please cite them as follows:
 * **Medical Device Data:** Kravtsov, G. G. (2026). *Supplementary Materials for the Article "Adaptive Multi-Interval Scale (AMIS): An Algorithm for Normalizing Medical Device Data into a Unified Metric Space"* [Data set]. Harvard Dataverse. https://doi.org/10.7910/DVN/OTEUVU
 * **Graphical Visualization Data:** Kravtsov, G. G. (2026). *Replication Data for: Adaptive Multi-Interval Scale (AMIS): Graphical Visualization of a Unified Measurement Space* [Data set]. Harvard Dataverse. https://doi.org/10.7910/DVN/HXQYRR
+* **Heterogeneous Metrics (GDP & Education):** Kravtsov, G. G. (2026). *Source data for heterogeneous metrics integration (GDP & Educational grades)* [Data set]. Harvard Dataverse. https://doi.org
 
-### Preprints & Working Papers
+### 📝 Preprints & Working Papers
 * **SSRN:** Kravtsov, G. G. (2026). Adaptive Multi-interval Scale (AMIS): Graphical Visualization of a Unified Measurement Space. *SSRN Electronic Journal*. https://doi.org/10.2139/ssrn.7090960
 * **OSF:** Kravtsov, G. G. (2025). Universal Adaptive Normalization Scale (AMIS): A methodology for integrating heterogeneous social and educational metrics. *OSF Preprints*. https://doi.org/10.17605/OSF.IO/BDT2K
 
