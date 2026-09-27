@@ -136,8 +136,11 @@ If you use AMIS in your research, please cite both the methodology paper and the
 
 **Methodology Paper (APA):**  
 Кравцов Г. Г. Адаптивная многоинтервальная шкала (AMIS): построение единого метрического пространства для разнородных данных // Моделирование и анализ данных. 2026. Т. 16. № 2. С. 67–83. https://doi.org/10.17759/mda.2026160203
+
 Кравцов Г. Г. Адаптивная мультиинтервальная шкала (AMIS): алгоритм нормализации агрегированных данных в едином измерительном пространстве // Научный результат. Информационные технологии. 2026. Т. 11. № 2. С. 50–61. https://doi.org/10.18413/2518-1092-2026-11-2-0-5
+
 Kravtsov, G. G. (2025, November 18). *Universal Adaptive Normalization Scale (AMIS): A methodology for integrating heterogeneous social and educational metrics*. https://doi.org/10.17605/OSF.IO/BDT2K [Preprint]
+
 Kravtsov G. G. Adaptive Multi-interval Scale (AMIS): Graphical Visualization of a Unified Measurement Space // SSRN Electronic Journal. 2026. https://doi.org/10.2139/ssrn.7090960
 
 
