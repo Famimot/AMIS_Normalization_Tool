@@ -141,9 +141,9 @@ If you use AMIS in your research or software in your projects, please cite both 
 
 ### 📊 Open Data (Harvard Dataverse Replication Datasets)
 If you use the benchmark datasets for verification or reproduction, please cite them as follows:
-* **Medical Device Data:** Kravtsov, G. G. (2026). *Supplementary Materials for the Article "Adaptive Multi-Interval Scale (AMIS): An Algorithm for Normalizing Medical Device Data into a Unified Metric Space"* [Data set]. Harvard Dataverse. https://doi.org/10.7910/DVN/OTEUVU
 * **Graphical Visualization Data:** Kravtsov, G. G. (2026). *Replication Data for: Adaptive Multi-Interval Scale (AMIS): Graphical Visualization of a Unified Measurement Space* [Data set]. Harvard Dataverse. https://doi.org/10.7910/DVN/HXQYRR
-* **Heterogeneous Metrics (GDP & Education):** Kravtsov, G. G. (2026). *Source data for heterogeneous metrics integration (GDP & Educational grades)* [Data set]. Harvard Dataverse. https://doi.org
+* **Medical Device Data:** Kravtsov, G. G. (2026). *Supplementary Materials for the Article "Adaptive Multi-Interval Scale (AMIS): An Algorithm for Normalizing Medical Device Data into a Unified Metric Space"* [Data set]. Harvard Dataverse. https://doi.org/10.7910/DVN/OTEUVU
+
 
 ### 📝 Preprints & Working Papers
 * **SSRN:** Kravtsov, G. G. (2026). Adaptive Multi-interval Scale (AMIS): Graphical Visualization of a Unified Measurement Space. *SSRN Electronic Journal*. https://doi.org/10.2139/ssrn.7090960
