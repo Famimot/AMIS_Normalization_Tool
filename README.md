@@ -150,7 +150,7 @@ If you use the benchmark datasets for verification or reproduction, please cite 
 * **Medical Device Data:** Kravtsov, G. G. (2026). *Supplementary Materials for the Article "Adaptive Multi-Interval Scale (AMIS): An Algorithm for Normalizing Medical Device Data into a Unified Metric Space"* [Data set]. Harvard Dataverse. https://doi.org/10.7910/DVN/OTEUVU
 
 
-### 📝 Preprints & Working Papers
+### 📝 Working Papers & Preprints  
 * Kravtsov, G. G. (2026). Adaptive multi-interval scale (AMIS): construction of a unified metric space for heterogeneous data. Modelling and Data Analysis, 16(2), 67–83. https://doi.org/10.17759/mda.2026160203
 * Kravtsov, G. G. (2026). Adaptive multi-interval scale (AMIS): a normalization algorithm for aggregated data in a unified metric space. *Research Result. Information Technologies*, 11(2), 50–61. https://doi.org/10.18413/2518-1092-2026-11-2-0-5
 * **SSRN:** Kravtsov, G. G. (2026). Adaptive Multi-interval Scale (AMIS): Graphical Visualization of a Unified Measurement Space. *SSRN Electronic Journal*. https://doi.org/10.2139/ssrn.7090960
