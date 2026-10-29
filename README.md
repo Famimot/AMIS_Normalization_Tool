@@ -5,7 +5,7 @@ A graphical application for **data normalization and mapping of heterogeneous da
 ## Features
 - 📊 Universal normalization for homogeneous and heterogeneous data
 - ⚡ **5 AMIS models** (3, 5, 9, 17 points + linear)
-- 🎯 **Adaptive model selection** (NEW in v4.3) - automatically adjusts to data volume
+- 🎯 **Adaptive model selection** (NEW in v6.1) - automatically adjusts to data volume
 - 🔄 **Cross-metric analysis** - compare different measurement units
 - 📈 Interactive visualization and CSV export
 - 🎯 Switch between original/normalized data views
@@ -13,14 +13,19 @@ A graphical application for **data normalization and mapping of heterogeneous da
 
 ## 🆕 Adaptive Model Selection
 
-AMIS v4.3 automatically selects available normalization models:
+AMIS v6.1 automatically selects available normalization models:
 
-- **10-19 points**: Linear + 3-point model
-- **20-49 points**: + 5-point model  
-- **50-99 points**: + 9-point model
-- **100+ points**: All 5 models available
+- **6-9 points**: Linear + 3-point model
+- **10-19 points**: + 5-point model  
+- **20-39 points**: + 9-point model
+- **40+ points**: All 5 models available
 
-The interface adapts automatically - unavailable models are disabled in dialogs.
+Each model also requires a minimum number of unique values:
+3-point: 2+, 5-point: 3+, 9-point: 9+, 17-point: 17+.
+If a model cannot be built (e.g. too few unique values), it is
+automatically excluded from both processing and the available models list.
+
+The interface adapts automatically - unavailable models are disabled in dialog
 
 ## Installation
 **Prerequisites:** Python 3.8+ (pandas, numpy, scipy, matplotlib)
@@ -146,6 +151,8 @@ If you use the benchmark datasets for verification or reproduction, please cite 
 
 
 ### 📝 Preprints & Working Papers
+* Kravtsov, G. G. (2026). Adaptive multi-interval scale (AMIS): construction of a unified metric space for heterogeneous data. Modelling and Data Analysis, 16(2), 67–83. https://doi.org/10.17759/mda.2026160203
+* Kravtsov, G. G. (2026). Adaptive multi-interval scale (AMIS): a normalization algorithm for aggregated data in a unified metric space. *Research Result. Information Technologies*, 11(2), 50–61. https://doi.org/10.18413/2518-1092-2026-11-2-0-5
 * **SSRN:** Kravtsov, G. G. (2026). Adaptive Multi-interval Scale (AMIS): Graphical Visualization of a Unified Measurement Space. *SSRN Electronic Journal*. https://doi.org/10.2139/ssrn.7090960
 * **OSF:** Kravtsov, G. G. (2025). Universal Adaptive Normalization Scale (AMIS): A methodology for integrating heterogeneous social and educational metrics. *OSF Preprints*. https://doi.org/10.17605/OSF.IO/BDT2K
 
