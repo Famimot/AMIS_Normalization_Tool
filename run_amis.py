@@ -1,5 +1,5 @@
 """
-AMIS Tool v6.0 - Classical AMIS Only
+AMIS Tool v6.3 - Classical AMIS Only
 With splash screen and two buttons (Classic Mode + Batch Processing)
 """
 
@@ -32,7 +32,7 @@ def show_splash():
             justify="center").pack(pady=5)
 
     # Version
-    tk.Label(bg_frame, text="Version 6.0",
+    tk.Label(bg_frame, text="Version 6.3",
             font=("Arial", 12),
             fg="white", bg='#2c3e50').pack(pady=5)
 
